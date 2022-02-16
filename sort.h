@@ -26,5 +26,6 @@ void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void quick__sort(int *array, size_t size, size_t tot_size, int *saved);
 size_t partition(int *array, size_t low, size_t hig, int *ptr, size_t size);
+void shell_sort(int *array, size_t size);
 
 #endif /* __FILE___H_ end if file header. */
