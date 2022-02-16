@@ -2,8 +2,8 @@
 
 /**
  * bubble_sort - Sorts an array of integers
- * @array:      -     Array of integers.
- * @size:      -     Size of the given array.
+ * @array: Array of integers.
+ * @size: Size of the given array.
  *
  * Return: void
  */
